@@ -13,8 +13,8 @@ title                    : "Zijia An"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://JiaJia075.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : https://JiaJia075.github.io
+baseurl                  : "/zijia_an.github.io"
 repository               : "JiaJia075/zijia_an.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
