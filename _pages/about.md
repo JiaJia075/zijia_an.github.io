@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 # Zijia An
 # About Me (安梓嘉)
 I am a third-year Ph.D. student in [Computer Science and Technology at the Institute of Computing Technology, Chinese Academy of Sciences](http://www.ict.cas.cn/). My research focuses on continual learning and object detection. I received my B.E. degree from [Xidian University](https://www.xidian.edu.cn/) in 2020 and my M.E. degree from [Beijing Institute of Technology](https://www.bit.edu.cn/) in 2023. I am currently advised by Professor [Boyu Diao](https://people.ucas.edu.cn/~bydiao) and Professor [Yongjun Xu](https://www.ict.ac.cn/sourcedb/cn/jssrck/200909/t20090917_2496751.html).
