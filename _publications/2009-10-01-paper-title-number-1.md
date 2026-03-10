@@ -1,7 +1,7 @@
 ---
 title: "Parameterized Prompt for Incremental Object Detection"
 collection: publications
-category: manuscripts
+category: Conference
 permalink: https://arxiv.org/pdf/2510.27316
 excerpt: 'Published in Conference on Computer Vision and Pattern Recognition‌, CCF-A, 2026'
 date: 2026-6
