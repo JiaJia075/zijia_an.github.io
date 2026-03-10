@@ -36,4 +36,4 @@ My research primarily focuses on addressing the problem of catastrophic forgetti
 # Contact Me
 [WeChat](../images/WeChat.jpg)
 
-[Email](1065428280@qq.com)
+[Email](1065428280@qq.com): 1065428280@qq.com
