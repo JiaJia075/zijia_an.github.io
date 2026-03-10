@@ -24,3 +24,8 @@ My research primarily focuses on addressing the problem of catastrophic forgetti
 - **[SPL-22, CCF-C]** [Effectiveness guided cross-modal information sharing for aligned RGB-T object detection](https://ieeexplore.ieee.org/abstract/document/9987679)
 
   **Zijia An**, Chunlei Liu, Yuqi Han
+
+# Contact Me
+[WeChat](../images/WeChat.jpg)
+
+[Email](1065428280@qq.com)
