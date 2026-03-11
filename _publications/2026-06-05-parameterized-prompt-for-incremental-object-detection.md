@@ -3,7 +3,7 @@ title: "Parameterized Prompt for Incremental Object Detection"
 collection: publications
 category: conferences
 permalink: /publication/2026-06-05-parameterized-prompt-for-incremental-object-detection
-#excerpt: 'Published in Conference on Computer Vision and Pattern Recognition‌, CCF-A, 2026.'
+excerpt: 'Author: **Zijia An**, Boyu Diao, Ruiqi Liu, Libo Huang, Chuanguang Yang, Fei Wang, Zhulin An, Yongjun Xu'
 date: 2026-06-05
 venue: 'Conference on Computer Vision and Pattern Recognition‌, CCF-A'
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
