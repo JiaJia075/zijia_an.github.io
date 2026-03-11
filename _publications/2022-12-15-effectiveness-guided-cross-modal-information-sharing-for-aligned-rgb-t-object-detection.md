@@ -10,4 +10,3 @@ venue: 'IEEE Signal Processing Letters, CCF-C'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9987679'
 #citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
-effectiveness-guided-cross-modal-information-sharing-for-aligned-RGB-T-object-detection
