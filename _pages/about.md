@@ -25,7 +25,7 @@ My research primarily focuses on addressing the problem of catastrophic forgetti
 
   RuiQi Liu, Boyu Diao, Libo Huang, **Zijia An**, Zhulin An, Yongjun Xu
 
-- **[PR-24, CCF-B]** [Low-redundancy distillation for continual learning](https://www.sciencedirect.com/science/article/abs/pii/S0031320325003723)
+- **[PR-25, CCF-B]** [Low-redundancy distillation for continual learning](https://www.sciencedirect.com/science/article/abs/pii/S0031320325003723)
 
   Ruiqi Liu, Boyu Diao, Libo Huang, **Zijia An**, Hangda Liu, Zhulin An, Yongjun Xu
 
