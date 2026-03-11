@@ -4,7 +4,7 @@ collection: publications
 category: Conference
 permalink: https://arxiv.org/pdf/2510.27316
 excerpt: 'Published in Conference on Computer Vision and Pattern Recognition‌, CCF-A, 2026'
-date: 2026-6
+date: 2026-6-5
 venue: 'Journal 1'
 slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://arxiv.org/pdf/2510.27316'
