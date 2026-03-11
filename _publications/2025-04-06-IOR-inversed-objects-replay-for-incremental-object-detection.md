@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2025-04-06-IOR-inversed-objects-replay-for-incremental-object-detection
 excerpt: 'Author: **Zijia An**, Boyu Diao, Libo Huang, Ruiqi Liu, Zhulin An, Yongjun Xu'
-date: 2026-04-06
+date: 2025-04-06
 venue: '2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), CCF-B'
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://arxiv.org/pdf/2406.04829'
