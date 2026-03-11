@@ -1,5 +1,5 @@
 ---
-title: "Parameterized Prompt for Incremental Object Detection2"
+title: "Parameterized Prompt for Incremental Object Detection"
 collection: publications
 category: conferences
 permalink: /publication/2026-06-05-parameterized-prompt-for-incremental-object-detection
