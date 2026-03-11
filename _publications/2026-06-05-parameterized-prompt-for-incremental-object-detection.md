@@ -1,10 +1,10 @@
 ---
 title: "Parameterized Prompt for Incremental Object Detection"
 collection: publications
-category: Conference
-permalink: /publication/2026-06-05-Parameterized_Prompt_for_Incremental_Object_Detection
+category: conference
+permalink: /publication/2026-06-05-parameterized-prompt-for-incremental-object-detection
 excerpt: 'Published in Conference on Computer Vision and Pattern Recognition‌, CCF-A, 2026'
-date: 2026-6-5
+date: 2026-06-05
 venue: 'Conference 1'
 #slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://arxiv.org/pdf/2510.27316'
